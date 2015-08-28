@@ -1,0 +1,9 @@
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	padding: 50px 20px;
+}
+.img-product {
+	border: 1px solid gray;
+	border-radius: 20px;
+}
